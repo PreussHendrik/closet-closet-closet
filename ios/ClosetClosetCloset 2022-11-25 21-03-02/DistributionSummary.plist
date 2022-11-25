@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ClosetClosetCloset.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>buildNumber</key>
+			<string>3</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0400775EEC26D07317788D54E3FBB20F71FF7EFD</string>
+				<key>dateExpires</key>
+				<string>01.02.23</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>buildNumber</key>
+					<string>3</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>0400775EEC26D07317788D54E3FBB20F71FF7EFD</string>
+						<key>dateExpires</key>
+						<string>01.02.23</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>TZKYVMDC83</string>
+						<key>name</key>
+						<string>Hendrik Preuss</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TZKYVMDC83.com.closet.closet.closet</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TZKYVMDC83</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ClosetClosetCloset.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>575ae393-79df-4e08-841d-c2b06c279358</string>
+				<key>dateExpires</key>
+				<string>01.02.23</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.closet.closet.closet</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TZKYVMDC83</string>
+				<key>name</key>
+				<string>Hendrik Preuss</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

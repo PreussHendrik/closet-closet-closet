@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:ClosetClosetCloset.xcodeproj">
+      location = "group:/Volumes/Projects/private/ClosetClosetCloset/ios/ClosetClosetCloset.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ClosetClosetCloset.xcodeproj">
    </FileRef>
 </Workspace>
