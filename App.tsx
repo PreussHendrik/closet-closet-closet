@@ -58,7 +58,9 @@ const App = () => {
 
       <ScrollView>
         <View>
-          <Text> Closet Closet Closet</Text>
+          <Text style={{ color: isDarkMode ? 'white' : 'black' }}>
+            Closet Closet Closet
+          </Text>
         </View>
       </ScrollView>
     </SafeAreaView>
